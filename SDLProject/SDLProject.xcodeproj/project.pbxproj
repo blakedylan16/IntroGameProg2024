@@ -51,6 +51,8 @@
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
 			buildPhase = B6868FE72CB1A28F007E4AA1 /* Copy Files */;
 			membershipExceptions = (
+				Minotaur1.png,
+				Minotaur2.png,
 				shaders,
 			);
 		};
